@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="cp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fde047"/><stop offset="0.5" stop-color="#fb923c"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<radialGradient id="smile" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fff7c2"/><stop offset="1" stop-color="#ffe066"/></radialGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#cp)"/>
+<!-- smiley sun -->
+<g transform="translate(800,300)">
+<g stroke="#ffcf3f" stroke-width="14" stroke-linecap="round">
+<line x1="0" y1="-200" x2="0" y2="-150"/><line x1="0" y1="150" x2="0" y2="200"/><line x1="-200" y1="0" x2="-150" y2="0"/><line x1="150" y1="0" x2="200" y2="0"/>
+<line x1="-141" y1="-141" x2="-106" y2="-106"/><line x1="106" y1="106" x2="141" y2="141"/><line x1="141" y1="-141" x2="106" y2="-106"/><line x1="-106" y1="106" x2="-141" y2="141"/>
+</g>
+<circle r="120" fill="url(#smile)"/>
+<circle cx="-40" cy="-20" r="14" fill="#7a4b00"/><circle cx="40" cy="-20" r="14" fill="#7a4b00"/>
+<path d="M-50 30 Q0 80 50 30" fill="none" stroke="#7a4b00" stroke-width="12" stroke-linecap="round"/>
+</g>
+<!-- bubbles -->
+<g fill="#ffffff" opacity="0.45"><circle cx="240" cy="700" r="80"/><circle cx="1340" cy="720" r="100"/><circle cx="1180" cy="200" r="40"/><circle cx="420" cy="220" r="30"/><circle cx="980" cy="760" r="54"/></g>
+<g fill="#ffffff" opacity="0.9"><path d="M300 480 l8 20 20 8 -20 8 -8 20 -8-20 -20-8 20-8z"/><path d="M1280 460 l8 20 20 8 -20 8 -8 20 -8-20 -20-8 20-8z"/></g>
+</svg>

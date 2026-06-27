@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06283d"/><stop offset="0.5" stop-color="#0b6e6e"/><stop offset="1" stop-color="#1a1140"/></linearGradient>
+<radialGradient id="tglow" cx="0.8" cy="0.85" r="0.7"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.5"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#tg)"/>
+<rect width="1600" height="900" fill="url(#tglow)"/>
+<!-- citrus slices -->
+<g opacity="0.85">
+<g transform="translate(220,210)"><circle r="80" fill="#ffd23f"/><circle r="80" fill="none" stroke="#fff" stroke-width="6"/><circle r="62" fill="#ffe98a"/><g stroke="#ffd23f" stroke-width="5"><line x1="0" y1="-60" x2="0" y2="60"/><line x1="-60" y1="0" x2="60" y2="0"/><line x1="-43" y1="-43" x2="43" y2="43"/><line x1="-43" y1="43" x2="43" y2="-43"/></g></g>
+<g transform="translate(1340,690)"><circle r="100" fill="#ff5e7e"/><circle r="100" fill="none" stroke="#fff" stroke-width="7"/><circle r="78" fill="#ff95a8"/><g stroke="#ff5e7e" stroke-width="6"><line x1="0" y1="-76" x2="0" y2="76"/><line x1="-76" y1="0" x2="76" y2="0"/><line x1="-54" y1="-54" x2="54" y2="54"/><line x1="-54" y1="54" x2="54" y2="-54"/></g></g>
+<g transform="translate(1240,180)"><circle r="56" fill="#7cd14f"/><circle r="56" fill="none" stroke="#fff" stroke-width="5"/><circle r="43" fill="#aee68a"/></g>
+</g>
+<g opacity="0.16" fill="#ffffff"><circle cx="520" cy="640" r="140"/><circle cx="860" cy="760" r="90"/></g>
+<g opacity="0.5" fill="#ffffff"><circle cx="700" cy="160" r="3"/><circle cx="980" cy="120" r="2.5"/><circle cx="480" cy="120" r="2.5"/><circle cx="1120" cy="420" r="3"/></g>
+</svg>

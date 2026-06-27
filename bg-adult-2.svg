@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#2b1055"/><stop offset="0.45" stop-color="#7b2a86"/><stop offset="0.7" stop-color="#e0517a"/><stop offset="1" stop-color="#f7a44c"/>
+</linearGradient>
+<radialGradient id="sun" cx="0.5" cy="0.62" r="0.5"><stop offset="0" stop-color="#ffe27a"/><stop offset="0.6" stop-color="#ff8a5c"/><stop offset="1" stop-color="#ff8a5c" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="800" cy="560" r="360" fill="url(#sun)"/>
+<circle cx="800" cy="560" r="150" fill="#ffd86b" opacity="0.95"/>
+<g fill="#2b1055" opacity="0.55">
+<rect x="0" y="560" width="1600" height="6"/><rect x="0" y="585" width="1600" height="5" opacity="0.8"/><rect x="0" y="612" width="1600" height="5" opacity="0.6"/><rect x="0" y="640" width="1600" height="4" opacity="0.45"/>
+</g>
+<!-- palm silhouettes -->
+<g fill="#1a0b33" opacity="0.85">
+<path d="M150 900 Q160 620 150 560 Q120 540 90 555 Q140 545 150 560 Q140 535 110 520 Q150 530 152 558 Q175 535 205 535 Q165 545 154 562 Q200 560 230 585 Q180 565 150 575 Z"/>
+<path d="M1450 900 Q1440 600 1450 545 Q1485 525 1515 542 Q1465 530 1450 545 Q1465 520 1495 506 Q1452 518 1448 544 Q1425 520 1395 522 Q1438 530 1447 547 Q1400 545 1372 572 Q1422 550 1450 560 Z"/>
+</g>
+<g opacity="0.5" fill="#ffffff">
+<circle cx="240" cy="160" r="3"/><circle cx="430" cy="110" r="2.5"/><circle cx="1180" cy="140" r="3"/><circle cx="1360" cy="200" r="2.5"/><circle cx="620" cy="90" r="2.5"/>
+</g>
+</svg>

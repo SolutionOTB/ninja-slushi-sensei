@@ -6,8 +6,8 @@ const app = $("#app");
 const bgLayer = $("#bg-layer");
 
 const BGS = {
-  adult: ["assets/bg-adult-1.jpg", "assets/bg-adult-2.jpg", "assets/bg-adult-3.jpg"],
-  kid:   ["assets/bg-kid-1.jpg", "assets/bg-kid-2.jpg", "assets/bg-kid-3.jpg"],
+  adult: ["bg-adult-1.svg", "bg-adult-2.svg", "bg-adult-3.svg"],
+  kid:   ["bg-kid-1.svg", "bg-kid-2.svg", "bg-kid-3.svg"],
 };
 let bgTimer = null, bgIdx = 0;
 function startBg(kid) {

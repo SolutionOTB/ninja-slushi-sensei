@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="bb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c026d3"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#bb)"/>
+<!-- fruity circles -->
+<g opacity="0.9">
+<circle cx="260" cy="240" r="90" fill="#ff5e7e"/><circle cx="260" cy="240" r="90" fill="none" stroke="#fff" stroke-width="6"/>
+<circle cx="1320" cy="300" r="70" fill="#34d399"/><circle cx="1320" cy="300" r="70" fill="none" stroke="#fff" stroke-width="6"/>
+<circle cx="1180" cy="700" r="100" fill="#ffd23f"/><circle cx="1180" cy="700" r="100" fill="none" stroke="#fff" stroke-width="6"/>
+<circle cx="430" cy="720" r="64" fill="#fb7185"/><circle cx="430" cy="720" r="64" fill="none" stroke="#fff" stroke-width="6"/>
+</g>
+<!-- sparkles -->
+<g fill="#ffffff" opacity="0.85">
+<path d="M800 160 l10 26 26 10 -26 10 -10 26 -10-26 -26-10 26-10z"/>
+<path d="M560 440 l8 20 20 8 -20 8 -8 20 -8-20 -20-8 20-8z"/>
+<path d="M980 520 l8 20 20 8 -20 8 -8 20 -8-20 -20-8 20-8z"/>
+<path d="M700 760 l7 18 18 7 -18 7 -7 18 -7-18 -18-7 18-7z"/>
+</g>
+<g opacity="0.35" fill="#ffffff"><circle cx="900" cy="320" r="46"/><circle cx="120" cy="480" r="30"/></g>
+</svg>
